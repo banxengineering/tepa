@@ -1,7 +1,5 @@
 # tepa
 
-**The desk companion that feels alive.**
-
 <p align="center">
   <img src="assets/TEPA.png" alt="TEPA — three stylized desk robot companions with hoodies and expressive visor faces" width="680" />
 </p>
@@ -11,6 +9,8 @@
 This repository is **open source** so you can build, hack, and remix. Firmware and docs are still evolving; see [Roadmap](#roadmap). Build walkthrough: [SETUP.md](SETUP.md).
 
 **Repository:** [github.com/banxengineering/tepa](https://github.com/banxengineering/tepa)
+
+**SOURCE CODE COMING SOON**
 
 > [!TIP]
 > ### [Techpreneur Profits](https://www.techpreneurprofits.com/) — ship software *or* hardware with a real community  
