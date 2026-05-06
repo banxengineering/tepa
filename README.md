@@ -2,6 +2,10 @@
 
 **The desk companion that feels alive.**
 
+<p align="center">
+  <img src="assets/TEPA.png" alt="TEPA — three stylized desk robot companions with hoodies and expressive visor faces" width="680" />
+</p>
+
 *TEPA — Tiny Expressive Productivity Agent* is an animated desk robot: voice conversation, audio-reactive head movement, expressive eyes, a focus timer, and WiFi setup — running on the Waveshare ESP32-S3 1.32" round touch AMOLED dev board.
 
 This repository is **open source** so you can build, hack, and remix. Firmware and docs are still evolving; see [Roadmap](#roadmap). Build walkthrough: [SETUP.md](SETUP.md).
