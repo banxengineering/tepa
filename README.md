@@ -12,6 +12,11 @@ This repository is **open source** so you can build, hack, and remix. Firmware a
 
 **Repository:** [github.com/banxengineering/tepa](https://github.com/banxengineering/tepa)
 
+> [!TIP]
+> ### [Techpreneur Profits](https://www.techpreneurprofits.com/) — ship software *or* hardware with a real community  
+> **Builders** (apps, games, SaaS) and **Makers** (electronics, devices): feedback, beta testers, build-in-public, tools vault, launch support — led by a **24‑year engineering veteran.** *Progress over perfection.*  
+> **Members get TEPA 3D print files.** **[Join on Skool →](https://www.techpreneurprofits.com/)**
+
 ---
 
 ## Disclosure (links and kits)
