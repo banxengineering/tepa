@@ -59,16 +59,16 @@ The display, microphone, speaker, and touch controller are integrated on the PCB
 | Item | Qty | Role | Notes |
 |---|---:|---|---|
 | **Waveshare ESP32-S3-Touch-AMOLED-1.32** | 1 | Brain, round display, mic, amp, speaker, touch | Use product page specs to match revision (Flash/PSRAM, round 466×466). |
-| **MG90S-class servo** (metal gear 9 g style) | 1 | Head / body motion | Signal on GPIO1; power from board 5 V per Waveshare pinout — see [SETUP.md](SETUP.md) / board silk for **J1**. |
+| **MG90S-class servo** (~180° travel, metal gear 9 g style) | 1 | Head / body motion | Signal on GPIO1; power from board 5 V per Waveshare pinout — see [SETUP.md](SETUP.md) / board silk for **J1**. |
 | **USB-C cable** (data-capable) | 1 | Power + flash | Charge-only cables will not upload firmware. |
 | **Wire or servo extension** | as needed | Servo to J1 | Fit your mechanical layout; keep leads short and add strain relief. |
 
-**Where to buy (swap in your affiliate URLs when ready):**
+**Where to buy:**
 
-| Item | Suggested vendors |
+| Item | Links |
 |---|---|
-| Dev board | [Waveshare — ESP32-S3-Touch-AMOLED-1.32](https://www.waveshare.com/esp32-s3-touch-amoled-1.32.htm) · *Amazon / regional — add link* |
-| Servo | *Adafruit — add link* · *Amazon — add link* · any reputable MG90S-compatible servo |
+| Dev board | [Waveshare — product page](https://www.waveshare.com/esp32-s3-touch-amoled-1.32.htm) · [Amazon](https://amzn.to/4cSJjCr) *(affiliate)* |
+| Servo (180° MG90-class) | *Adafruit — add link* · [Amazon](https://amzn.to/4ddJtTR) *(affiliate)* · or any reputable MG90S-compatible servo |
 | Cables / prototypes | *Adafruit* · *Amazon* · local electronics supplier |
 
 Pin-level reference (touch, display power, etc.) lives in [SETUP.md](SETUP.md).
