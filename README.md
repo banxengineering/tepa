@@ -67,8 +67,8 @@ The display, microphone, speaker, and touch controller are integrated on the PCB
 
 | Item | Links |
 |---|---|
-| Dev board | [Waveshare — product page](https://www.waveshare.com/esp32-s3-touch-amoled-1.32.htm) · [Amazon](https://amzn.to/4cSJjCr) *(affiliate)* |
-| Servo (180° MG90-class) | *Adafruit — add link* · [Amazon](https://amzn.to/4ddJtTR) *(affiliate)* · or any reputable MG90S-compatible servo |
+| Amoled 1.32 Dev board | [Waveshare](https://www.waveshare.com/esp32-s3-touch-amoled-1.32.htm) · [Amazon](https://amzn.to/4cSJjCr) *(aff)* |
+| Servo (180° MG90-class) | [Amazon](https://amzn.to/4ddJtTR) *(aff)* |
 | Cables / prototypes | *Adafruit* · *Amazon* · local electronics supplier |
 
 Pin-level reference (touch, display power, etc.) lives in [SETUP.md](SETUP.md).
